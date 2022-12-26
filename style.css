@@ -24,6 +24,7 @@ body {
     justify-content: center;
     width: 1920px;
     z-index: 2;
+    padding: 10px;
 }
 
 .container .card {
